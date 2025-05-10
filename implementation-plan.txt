@@ -1,0 +1,3 @@
+- figure out Linux windows using Wayland API
+	- after that, look into Windows windows (maybe using FFI and unsafe code)
+		- FFI: Foreign Function Interface
